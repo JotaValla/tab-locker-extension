@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "TabLocker",
+  "version": "1.0",
+  "description": "Bloquea y difumina pestañas con una contraseña.",
+  "icons": {
+    "48": "icons/icon48.png",
+    "96": "icons/icon96.png"
+  },
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting"
+  ],
+  "host_permissions": [
+    "<all_urls>" 
+  ],
+  "action": {
+    "default_icon": {
+      "48": "icons/icon48.png"
+    },
+    "default_title": "Bloquear/Desbloquear Pestaña",
+    "default_popup": "popup/popup.html"
+  },
+  "options_page": "options/options.html",
+  "background": {
+    "scripts": ["scripts/background.js"]
+  }
+}
