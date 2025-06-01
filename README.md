@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Problemática que Soluciona
+## 🎯 Te ha sucedido esto ...
 
 En muchas situaciones, podemos necesitar alejarnos de nuestro navegador dejando pestañas abiertas con información sensible, o simplemente queremos evitar que otras personas (o nosotros mismos, para evitar procrastinar) accedan al contenido de una pestaña específica. TabLocker aborda estos escenarios al permitirte:
 
@@ -74,7 +74,14 @@ TabLocker combina varias APIs de WebExtensions y técnicas del lado del cliente 
 
 
 ---
+## EXTENSION EN FIREFOX OFICIAL
 
+Afortunadamente paso la aprobacion de los revisores de firefox y actualmente la extension la puedes encontrar en el mercado de mozilla de extensiones,
+aqui te dejo el link de la extension, para que la descargues. Te agradeceria mucho que dejes tus opiniones o recomendaciones de la extension.
+
+https://addons.mozilla.org/es-ES/firefox/addon/blurtab/
+
+--
 ## ⚙️ Instalación Local (Para Desarrollo o Pruebas en Firefox)
 
 Puedes cargar y probar TabLocker localmente en Firefox siguiendo estos pasos:
